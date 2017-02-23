@@ -1,0 +1,10 @@
+Package: com.sergeilevashov.permut
+Name: permut
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Sergei Levashov
+Author: Sergei Levashov
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 200
